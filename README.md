@@ -165,10 +165,10 @@ Copyright (c) 2026 [Sadap Hossain]. All Rights Reserved.
 
 This project is provided for viewing and evaluation. No permission is granted to copy, modify, redistribute, sublicense, or use it commercially without prior written permission from the copyright holder.
 
-Replace `[Your Name]` with the copyright holder's preferred name before publishing. This notice does not technically prevent copying; it states the reuse terms.
+Replace `[sadaphossain]` with the copyright holder's preferred name before publishing. This notice does not technically prevent copying; it states the reuse terms.
 
 ## Author
 
-**[sadapahmed007-arch]**
+https://github.com/sadapahmed007-arch
 
-Add your GitHub profile and contact information here if you want them displayed publicly.
+
