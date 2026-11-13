@@ -161,7 +161,7 @@ The app can start without the optional weather/news keys, but those integrations
 
 ## License and Copyright
 
-Copyright (c) 2026 [Your Name]. All Rights Reserved.
+Copyright (c) 2026 [Sadap Hossain]. All Rights Reserved.
 
 This project is provided for viewing and evaluation. No permission is granted to copy, modify, redistribute, sublicense, or use it commercially without prior written permission from the copyright holder.
 
@@ -169,6 +169,6 @@ Replace `[Your Name]` with the copyright holder's preferred name before publishi
 
 ## Author
 
-**[Your Name]**
+**[sadapahmed007-arch]**
 
 Add your GitHub profile and contact information here if you want them displayed publicly.
